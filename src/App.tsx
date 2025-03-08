@@ -255,7 +255,7 @@ function App() {
               </div>
             </div>
             <div className="flex-1">
-              <form className="space-y-4">
+              {/* <form className="space-y-4">
                 <div>
                   <label
                     htmlFor="name"
@@ -301,7 +301,7 @@ function App() {
                 >
                   Send Message
                 </button>
-              </form>
+              </form> */}
             </div>
           </div>
         </div>
