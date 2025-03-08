@@ -59,7 +59,8 @@ function App() {
             <div className="w-48 h-48 rounded-full overflow-hidden">
               <img
                 // src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=400&auto=format&fit=crop"
-                src="/assets/OLABIYI.jpeg"
+                // src="/assets/OLABIYI.jpeg"
+                src="https://i.postimg.cc/D0nT97XD/OLABIYI.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
